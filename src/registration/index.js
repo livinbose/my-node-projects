@@ -17,6 +17,6 @@ router.get('/admininsertapi',loginControl);
 
 router.post('/updateapi/:ID',loginControl)
 router.get('/updateapi/:ID',loginControl)
-console.log("Welcome");
+
 
 module.exports = router;
