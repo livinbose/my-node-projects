@@ -1,0 +1,13 @@
+1739345931
+Inside INSERT Qry 13:08:51; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$MEIJY/yl5p.Rmb.l7He0jeipyeE0BEbeVVAydE5FViTzf3p12SBU6', '2025-02-12T13:08:51Z', '2025-02-12T13:08:51Z', '2025-02-12T13:08:51Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739346795
+Inside INSERT Qry 13:23:15; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$ICpxiqyOCzwjSKqVNsr47OzikyKr.RrF9S7rwmhZ0.5vJmIOjEjFW', '2025-02-12T13:23:15Z', '2025-02-12T13:23:15Z', '2025-02-12T13:23:15Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================

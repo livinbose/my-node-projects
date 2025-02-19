@@ -1,0 +1,19 @@
+
+Inside SELECT Qry 11:58:45; 
+ExecQry : SELECT * FROM mydb.myform WHERE [object Object]; 
+Qry : SELECT * FROM mydb.myform WHERE [object Object]Livinbose05@gmail.com; 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_SELECT_QRY_ERR: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[object Object]' at line 1
+=====================================================
+Inside SELECT Qry 11:59:57; 
+ExecQry : SELECT * FROM hrm.users WHERE [object Object]; 
+Qry : SELECT * FROM hrm.users WHERE [object Object]Livinbose05@gmail.com; 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_SELECT_QRY_ERR: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[object Object]' at line 1
+=====================================================
+Inside SELECT Qry 12:00:51; 
+ExecQry : SELECT * FROM hrm.users WHERE [object Object]; 
+Qry : SELECT * FROM hrm.users WHERE [object Object]Livinbose05@gmail.com; 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_SELECT_QRY_ERR: Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '[object Object]' at line 1
+=====================================================

@@ -1,0 +1,20 @@
+require("module").globalPaths.push(process.env.NODE_PATH);
+
+const express = require("express"); // This should work now
+// console.log(pm2);
+
+// const express = require("pm2");
+
+✅ 1. Use npm root -g to Get the Correct Path
+First, find your global npm modules path. Run:
+
+sh
+Copy
+Edit
+npm root -g
+
+console.log("NODE_PATH:", process.env.NODE_PATH);
+// $env:NODE_PATH="C:\Users\Dell\AppData\Roaming\npm\node_modules"
+
+
+https://github.com/livinbose/my-node-projects.git

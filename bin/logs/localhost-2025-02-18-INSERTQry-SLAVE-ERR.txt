@@ -1,0 +1,73 @@
+1739869684
+Inside INSERT Qry 14:38:04; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose09@gmail.com', '$2b$10$s7MqRqrc1DyaJRV99VI36O6hwbufYpQwN3XdxIsVezeCnukpM7okK', '2025-02-18T14:38:04Z', '2025-02-18T14:38:04Z', '2025-02-18T14:38:04Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose09@gmail.com' for key 'users_email_unique'
+=====================================================1739874168
+Inside INSERT Qry 15:52:48; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livin bose', 'Livinbose09@gmail.com', '$2b$10$mSIXQTAxcY4UGL49bHHP..z6KahoSHyf2KqiNsr.3RaqMZCjEwiLW', '6381950171', '1', '2025-02-18T15:52:48Z', '2025-02-18T15:52:48Z', '2025-02-18T15:52:48Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_BAD_FIELD_ERROR: Unknown column 'email_verified_at' in 'field list'
+=====================================================1739874230
+Inside INSERT Qry 15:53:50; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'Livin bose', 'Livinbose09@gmail.com', '$2b$10$ME3cL6a6pe9p3.EJ4oA4SuDXqnLE3a3ATML6fH4QMD3PvfGfWn9uO', '6381950171', '1', '2025-02-18T15:53:50Z', '2025-02-18T15:53:50Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874296
+Inside INSERT Qry 15:54:56; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'Livin bose', 'Livinbose09@gmail.com', '$2b$10$Bv27fyFlbmCmOMis04ajNefOhLxqX0UUpECQM/uDQIahdlrfu7.qq', '6381950171', '1', '2025-02-18T15:54:56Z', '2025-02-18T15:54:56Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874332
+Inside INSERT Qry 15:55:32; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'bose', 'Livinbose09@gmail.com', '$2b$10$IcTJkPtPEwRcf9iAtKQuA.X/x0p3pkEmYMmG.hmonaHWOTPlb2WYO', '6381950171', '1', '2025-02-18T15:55:32Z', '2025-02-18T15:55:32Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874332
+Inside INSERT Qry 15:55:32; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'bose', 'Livinbose09@gmail.com', '$2b$10$hzOOk9UHo364sgZ4JRv3pON64oP5kwYBlNjlDSr7jecQSzcgxdr5K', '6381950171', '1', '2025-02-18T15:55:32Z', '2025-02-18T15:55:32Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874333
+Inside INSERT Qry 15:55:33; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'bose', 'Livinbose09@gmail.com', '$2b$10$80AGAyXSkaVJsK3Ge8Rv2uyQrRjvJBmFYcqV0x/iFxo.MO2u6Pcgy', '6381950171', '1', '2025-02-18T15:55:33Z', '2025-02-18T15:55:33Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874334
+Inside INSERT Qry 15:55:34; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'bose', 'Livinbose09@gmail.com', '$2b$10$C4BR/0W2Lp3bCsHnfNJTju3pWPv.prIlAID2fINIksG/nJhCUY1wC', '6381950171', '1', '2025-02-18T15:55:34Z', '2025-02-18T15:55:34Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874334
+Inside INSERT Qry 15:55:34; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin bose', 'bose', 'Livinbose09@gmail.com', '$2b$10$ru1GYW7GNAPSOh3f4nUMc.L3XatzCEq8tJo3hi0XvdKMjBCN9y38m', '6381950171', '1', '2025-02-18T15:55:34Z', '2025-02-18T15:55:34Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874369
+Inside INSERT Qry 15:56:09; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin', 'bose', 'Livinbose09@gmail.com', '$2b$10$YOu8xF176JIobwByM7qfqelB6927au39ueWtDWYgHH9sS2uJXgQ5a', '6381950171', '1', '2025-02-18T15:56:09Z', '2025-02-18T15:56:09Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874376
+Inside INSERT Qry 15:56:16; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin', 'bose', 'Livinbose09@gmail.com', '$2b$10$OthBfBwl5CTIDWzM6M.Nk.wrP3HvawO6SdHri0ZhKZ1NSuIMmZEZy', '6381950171', '1', '2025-02-18T15:56:16Z', '2025-02-18T15:56:16Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================1739874377
+Inside INSERT Qry 15:56:17; 
+ExecQry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO eaglearning.users(first_name, last_name, email, password, phone, role_id, created_at, updated_at) VALUES ('Livin', 'bose', 'Livinbose09@gmail.com', '$2b$10$lDrb0yHAjdnlSVKeoBHgaO50MgD2YifIRvbDfasiEKFXOk04WJ1by', '6381950171', '1', '2025-02-18T15:56:17Z', '2025-02-18T15:56:17Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_NO_REFERENCED_ROW_2: Cannot add or update a child row: a foreign key constraint fails (`eaglearning`.`users`, CONSTRAINT `users_ibfk_1` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE CASCADE)
+=====================================================

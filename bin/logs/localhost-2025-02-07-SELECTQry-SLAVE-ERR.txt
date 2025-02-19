@@ -1,0 +1,13 @@
+
+Inside SELECT Qry 16:01:05; 
+ExecQry : SELECT * FROM undefined.undefined; 
+Qry : SELECT * FROM undefined.undefined; 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_SELECT_QRY_ERR: Error: ER_NO_SUCH_TABLE: Table 'undefined.undefined' doesn't exist
+=====================================================
+Inside SELECT Qry 16:02:15; 
+ExecQry : SELECT * FROM undefined.undefined; 
+Qry : SELECT * FROM undefined.undefined; 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_SELECT_QRY_ERR: Error: ER_NO_SUCH_TABLE: Table 'undefined.undefined' doesn't exist
+=====================================================

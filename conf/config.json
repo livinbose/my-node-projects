@@ -1,0 +1,59 @@
+{
+   
+    "IDSCREENTYPE" : 1,
+    "IDPROOFUPLOADNUM" : ["+919884040353","+917550087450"],
+   
+    "EMPSTATUS": {
+        "1": {"EMP" :  "Super Admin",
+        "EMPSTATUS" :  1},
+        "2": {"EMP" :  "HR",
+        "EMPSTATUS" :  2},
+        "974":{"EMP" :  "Manager ",
+        "EMPSTATUS" :  3},
+        "965": {"EMP" :  "Employees",
+        "EMPSTATUS" :  4}
+    },
+  
+   
+    "MockImg": {
+        "dl": [
+            "https://stgimg.jodii.app/nbpromotion/dl.svg",
+            "https://stgimg.jodii.app/nbpromotion/dlimage.svg",
+            "https://stgimg.jodii.app/nbpromotion/dldobname.svg",
+            "https://stgimg.jodii.app/nbpromotion/dlname.svg"
+        ],
+        "pan": [
+            "https://stgimg.jodii.app/nbpromotion/pan.svg",
+            "https://stgimg.jodii.app/nbpromotion/pannumber.svg",
+            "https://stgimg.jodii.app/nbpromotion/frontsideofpan.svg"
+        ],
+        "aadhar": [
+            "https://stgimg.jodii.app/nbpromotion/aadharimg.png","https://stgimg.jodii.app/nbpromotion/aadhar.webp"
+        ],
+        "voter": [
+            "https://stgimg.jodii.app/nbpromotion/voternum.svg",
+            "https://stgimg.jodii.app/nbpromotion/voter.svg",
+            "https://stgimg.jodii.app/nbpromotion/frontsidevoterimg.svg"
+        ],
+        "passport": [            
+            "https://stgimg.jodii.app/nbpromotion/passportimg.svg",
+            "https://stgimg.jodii.app/nbpromotion/passportname.svg",
+            "https://stgimg.jodii.app/nbpromotion/passportfileno.png",
+            "https://stgimg.jodii.app/nbpromotion/dobpassport.svg",
+            "https://stgimg.jodii.app/nbpromotion/passportbackside.webp",
+            "https://stgimg.jodii.app/nbpromotion/frontsideofpassport.svg"
+        ]
+    },
+    "deleteicons":{
+        "deletesuccess": ["https://stgimg.jodii.app/nbpromotion/profiledeletedicon.svg"],
+        "facebook": ["https://stgimg.jodii.app/nbpromotion/fbookicon.svg"],
+        "sharechat": ["https://stgimg.jodii.app/nbpromotion/sharechaticon.png"],
+        "instagram": ["https://stgimg.jodii.app/nbpromotion/instaicon.png"]
+    },
+  
+    "iptype" : {
+        "1" : "DEVNBPRODB1",
+        "2" : "DEVNBPRODB2"
+    }
+ 
+}

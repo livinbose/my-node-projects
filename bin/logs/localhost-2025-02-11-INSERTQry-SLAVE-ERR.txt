@@ -1,0 +1,968 @@
+1739248740
+Inside INSERT Qry 10:09:00; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$E2wEguA/PSosACWws1N80OT1Xyq9nxmogLtnv9vLCUCpaWmDIWQ.u', '2025-02-11T10:09:00Z', '2025-02-11T10:09:00Z', '2025-02-11T10:09:00Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739248740
+Inside INSERT Qry 10:09:00; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$ZVuEnJhnSWlPy51VRsQkzeuISO.o.yGDhX2GVkomYlCfrvfFNlUfa', '2025-02-11T10:09:00Z', '2025-02-11T10:09:00Z', '2025-02-11T10:09:00Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739265044
+Inside INSERT Qry 14:40:44; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$yGPHWnVAiAQXccq5j2j8cO2wJXcHld2m8DTpXT/9ad3Z8xJWhqEFa', '2025-02-11T14:40:44Z', '2025-02-11T14:40:44Z', '2025-02-11T14:40:44Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739265470
+Inside INSERT Qry 14:47:50; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$LjMSpqQvkIYnqiHQlchi.eE24mMe0qYcF9aRAKIuYU3g9MC5hPNbu', '2025-02-11T14:47:50Z', '2025-02-11T14:47:50Z', '2025-02-11T14:47:50Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739268067
+Inside INSERT Qry 15:31:07; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$FnQQhQC.fgtLokQ9O2kUtek3ANIDvuuqAGG0ml6DkT2IgEuH90lPu', '2025-02-11T15:31:07Z', '2025-02-11T15:31:07Z', '2025-02-11T15:31:07Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739268075
+Inside INSERT Qry 15:31:15; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$N6SnypJELcpP8KQEsgqQF.XO54/XkF/G.XchlPN/2odhfktSKTqGS', '2025-02-11T15:31:15Z', '2025-02-11T15:31:15Z', '2025-02-11T15:31:15Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739268078
+Inside INSERT Qry 15:31:18; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$Ihr7zcdAPDncqHGx4Tg3B.v3NE1Eq89aGSklDWdmy8L.TreTpXM0C', '2025-02-11T15:31:18Z', '2025-02-11T15:31:18Z', '2025-02-11T15:31:18Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739268677
+Inside INSERT Qry 15:41:17; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$/a.jixTTJP2CpZHw5Cb2yeZ5dhu9.kBnblxcTrlg4Hmn1KMydQ3q2', '2025-02-11T15:41:17Z', '2025-02-11T15:41:17Z', '2025-02-11T15:41:17Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739272698
+Inside INSERT Qry 16:48:18; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'livnbs', '$2b$10$QMgTecLhavPRf6Eux7u6VOvWaEOLwZQ.hXg96Do6jI5jOwCtdKBxm', '2025-02-11T16:48:18Z', '2025-02-11T16:48:18Z', '2025-02-11T16:48:18Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livnbs' for key 'users_email_unique'
+=====================================================1739272741
+Inside INSERT Qry 16:49:01; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'livnbs', '$2b$10$ZDHw16PGmVR565CVqM5NQeHkFkyI89o5jEWY8ITO.xkSbSgz/nti2', '2025-02-11T16:49:01Z', '2025-02-11T16:49:01Z', '2025-02-11T16:49:01Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livnbs' for key 'users_email_unique'
+=====================================================1739273300
+Inside INSERT Qry 16:58:20; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (undefined, 'livinbose@97', '$2b$10$j0K5okyxwxJ9LtdMlxLrMu7bh1v/cGfrYwtwS6Tt/nXOFxo2CMgzG', '2025-02-11T16:58:20Z', '2025-02-11T16:58:20Z', '2025-02-11T16:58:20Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'field list'
+=====================================================1739273647
+Inside INSERT Qry 17:04:07; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$m0DPeU4peDbKgAuraH3P0enRaQ0ir8Xagrds/T3/XY14kUOaIYWBC', '2025-02-11T17:04:07Z', '2025-02-11T17:04:07Z', '2025-02-11T17:04:07Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739273841
+Inside INSERT Qry 17:07:21; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$uowTt01UJjxTIFfTnf3M.Oee2Rh3Ja3h24POqdaZofuVVv1G7pKvK', '2025-02-11T17:07:21Z', '2025-02-11T17:07:21Z', '2025-02-11T17:07:21Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739273964
+Inside INSERT Qry 17:09:24; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$rUIvdh4ecBxtkH7fr5bIZOQxu2vFmt0c3pai.uDIhqNvJ4qF8Xzqu', '2025-02-11T17:09:24Z', '2025-02-11T17:09:24Z', '2025-02-11T17:09:24Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739274323
+Inside INSERT Qry 17:15:23; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$NfTqYTLPmws68lnOgigdXeaBNsVD0UisnJcmXT8lYWlygRXZu6cP6', '2025-02-11T17:15:23Z', '2025-02-11T17:15:23Z', '2025-02-11T17:15:23Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739274401
+Inside INSERT Qry 17:16:41; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose90@gmail.com', '$2b$10$XqAvmqEXbg60cXLcfOuCx.7P9QIztXrivQDN21GCbFPlykvU2NlCu', '2025-02-11T17:16:40Z', '2025-02-11T17:16:40Z', '2025-02-11T17:16:40Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose90@gmail.com' for key 'users_email_unique'
+=====================================================1739275203
+Inside INSERT Qry 17:30:03; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$pYAjFqwqMFon0IXH/CmkdeamuG3QLkNwFD5M0B7Ku84tpcn7d.ZNi', '2025-02-11T17:30:03Z', '2025-02-11T17:30:03Z', '2025-02-11T17:30:03Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739275279
+Inside INSERT Qry 17:31:19; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$FoXgCxxj6BbWT8VP.q8E6.O3fyCKjPy3fGicK1aoBoDpIrECpl0Za', '2025-02-11T17:31:19Z', '2025-02-11T17:31:19Z', '2025-02-11T17:31:19Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739275286
+Inside INSERT Qry 17:31:26; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$ED6d0d0DMAOcgoRuhAZgJevV0HvJoTCNHReUCRkjiDcroR5gYmxiy', '2025-02-11T17:31:26Z', '2025-02-11T17:31:26Z', '2025-02-11T17:31:26Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739275421
+Inside INSERT Qry 17:33:41; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$ioTPDrI3KoaOZCF3G6IowugjdoB1MEGeExUzDowx//1uqD2CBvwOe', '2025-02-11T17:33:41Z', '2025-02-11T17:33:41Z', '2025-02-11T17:33:41Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739275422
+Inside INSERT Qry 17:33:42; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$OY9P3b.v3cOSrdkdZg3gKu7dL6O8obAIgNa9XaLVKhROXd9EVmCoe', '2025-02-11T17:33:42Z', '2025-02-11T17:33:42Z', '2025-02-11T17:33:42Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739275439
+Inside INSERT Qry 17:33:59; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('livin', 'livinbose05@gmail.com', '$2b$10$RLCJ/le9bbXpy92MMozxV.klcwEn4Q9vR8OVIf/7x3Idempv5ng4O', '2025-02-11T17:33:59Z', '2025-02-11T17:33:59Z', '2025-02-11T17:33:59Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************************************************************************
+ *	Filename	: LoginController.js							
+ *	Author		: Lalitha Raj
+ *	Date		: 30-APRIL-2021								
+ *	Description	: NB vernacular app Login module controller file.
+/ ***********************************************************************************************/
+const loginflow = require('./../models/loginflowlibrary.js');
+module.exports = (req, res, throwError) => {
+    try {
+        const loginflowobj = new loginflow(req, res);
+        let resultant = {};
+        let url = req.url.split('/')[1].split('?')[0];
+        console.log('URL :', url);
+        if (url === 'loginemail') {
+            console.log("Hiiiiiiiiiii")
+            loginflowobj.loginCheck((err, result) => {
+                // console.log("res=======", result);
+                console.log("err=======", err);
+                if (err) {
+                    res.send(err);
+                } else {
+                    resultant = {
+                        'RESPONSECODE': '1',
+                        'ERRCODE': '0',
+                        'RESPONSE': result
+                    }
+                    // res.setHeader("Content-Type", "text/html");
+                    res.json(resultant);
+                }
+            });
+            // loginflowobj.loginvalidation((err,result)=>{
+            //     if(err){
+            //         err.MAXPHOTOADD = bmvars.MAXPHOTOADD;
+            //         err.OTPLIMIT = bmvars.OTPLIMIT[err.MCODE];
+            //         err.PROFILEDEACTIVATESTATUS = (!bmgeneric.empty(err.ACTIVESTATUS)) ? err.ACTIVESTATUS : 0;
+            //        return throwError(err); 
+            //     }
+            //     result.MAXPHOTOADD = bmvars.MAXPHOTOADD;
+            //     result.OTPLIMIT = bmvars.OTPLIMIT[result.MCODE];
+            //     result.GLASSBOXENABLE = bmvars.GLASSBOXENABLE;
+            //     resultant =   {
+            //         'RESPONSECODE': '1',
+            //         'ERRCODE': '0',
+            //         'RESPONSE': result
+            //     }
+            //     req.NB.sendResponse(resultant);
+            // });
+        }
+        else if (url === 'updateapi') {
+            loginflowobj.userdetailsupd((err, result) => {
+                if (err) {
+                    res.json(err);
+                } else {
+                    resultant = {
+                        'RESPONSECODE': '1',
+                        'ERRCODE': '0',
+                        'RESPONSE': result
+                    }
+                    res.json(resultant);
+                }
+            });
+        }
+        else if (url === 'verifyotp') {
+            loginflowobj.verifyloginOTP((err, result) => {
+                if (err) {
+                    return throwError(err);
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': result
+                }
+                req.NB.sendResponse(resultant);
+            });
+        }
+        else if (url === 'resendotp') {
+            loginflowobj.resendloginOTP((err, result) => {
+                if (err) {
+                    return throwError(err);
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': result
+                }
+                req.NB.sendResponse(resultant);
+            });
+        }
+        else if (url === 'autologin') {
+            loginflowobj.autologinMember((err, result) => {
+                if (err) {
+                    err.PROFILEDEACTIVATESTATUS = (!bmgeneric.empty(err.ACTIVESTATUS)) ? err.ACTIVESTATUS : 0;
+                    return throwError(err);
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': result
+                }
+                res.json(resultant);
+            });
+        } else if (url === 'forgot-password') {
+            loginflowobj.forgotpass((err, result) => {
+                console.log("errr==============",err);
+                if (err) {
+                    res.send(err); //return throwError(err);
+                } else {
+                    resultant = {
+                        'RESPONSECODE': '1',
+                        'ERRCODE': '0',
+                        'RESPONSE': { 'MSG': result }
+                    }
+                    res.json(resultant);
+                }
+            });
+        } else if (url === 'deleteprofile') {
+            loginflowobj.deleteprofile((err, result) => {
+                if (err) {
+                    return throwError(err);
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': { 'MSG': result }
+                }
+                req.NB.sendResponse(resultant);
+            });
+        } else if (url === 'switchlanguage') {
+            loginflowobj.switchlanguage((err, result) => {
+                if (err) {
+                    return throwError(err);
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': { 'MSG': 'Success' }
+                }
+                req.NB.sendResponse(resultant);
+            });
+        } else if (url === 'imageupload') {
+            loginflowobj.imageUpload((err, response) => {
+                if (err) {
+                    // return throwError(err)
+                    res.json(err);
+                } else {
+                    resultant = {
+                        'RESPONSECODE': '1',
+                        'ERRCODE': '0',
+                        'RESPONSE': response
+                    }
+                    res.json(resultant);
+                }
+            })
+        } else if (url === 'profilereactive') {
+            loginflowobj.profileactive((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                req.NB.sendResponse(response);
+            })
+        } else if (url === 'paywallupd') {
+            loginflowobj.paywallupd((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'paywallduration') {
+            loginflowobj.paywallduration((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'paywallprofileupdate') {
+            loginflowobj.paywallIDProofDataUpdate((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'reporteblock') {
+            loginflowobj.reporteduser((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'nodemail') {
+            loginflowobj.nodemailsent((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'limitrelaxations') { // fulimitrelaxations
+            loginflowobj.limitcheck((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            })
+        } else if (url === 'logintruecall') {
+            // for JODII-8 true caller 
+            loginflowobj.loginCheck((err, result) => {
+                if (err) {
+                    err.MAXPHOTOADD = bmvars.MAXPHOTOADD;
+                    // err.OTPLIMIT = bmvars.OTPLIMIT[err.MCODE];
+                    err.OTPLIMIT = 0;
+                    err.PROFILEDEACTIVATESTATUS = (!bmgeneric.empty(err.ACTIVESTATUS)) ? err.ACTIVESTATUS : 0;
+                    return throwError(err);
+                }
+                result.MAXPHOTOADD = bmvars.MAXPHOTOADD;
+                // result.OTPLIMIT = bmvars.OTPLIMIT[result.MCODE];
+                result.OTPLIMIT = 0;
+                result.GLASSBOXENABLE = bmvars.GLASSBOXENABLE;
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': result
+                }
+                req.NB.sendResponse(resultant);
+            });
+        } else if (url === 'dbtrack') {
+            loginflowobj.databasetrack((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            });
+        } else if (url === 'supinterapi') {
+            loginflowobj.supportinterfaceAPI((err, response) => {
+                if (err) {
+                    return throwError(err)
+                }
+                resultant = {
+                    'RESPONSECODE': '1',
+                    'ERRCODE': '0',
+                    'RESPONSE': response
+                }
+                req.NB.sendResponse(resultant);
+            });
+        }
+    } catch (err) {
+        return throwError(err);
+    }
+}        
+
+
+
+
+
+
+
+
+
+
+
+/**********************************************************************************************
+File    : loginflowlibrary.js
+Author  : Livin Bose 
+Date    : 07-02-2025
+************************************************************************************************/
+
+
+const loginDBFunctions = require('./loginDBFunction');
+module.exports = class loginflowlibrary extends loginDBFunctions {
+    constructor(req, res) {
+        super();
+        this.req = req;
+        this.res = res;
+        this.REQUEST = {};
+        this.REQUEST = Object.create(Object.assign(this.req.body, this.req.query));
+        this.REQUEST = bmgeneric.sanitize(this.REQUEST);
+        // this.REQUEST = preventxss(this.REQUEST);
+        this.REQUEST.APIROUTER = this.req.url.split('/')[1];
+        if (this.REQUEST.APIROUTER == 'imageupload') {
+            this.REQUEST.FILE = (this.req.file) ? this.req.file : '';
+        }
+        // this.select = SELECTOROBJ.LOGIN; livinbose5@gmail.com LivinBose@1997
+    }
+
+    loginCheck(callback) {
+        try {
+            console.log("this.REQ======", this.REQUEST);
+            let Email = this.REQUEST.Email
+            if (!bmgeneric.empty(Email) && Email != "") {
+
+                // const transporter = nodemailer.createTransport({
+                //     service: 'gmail',
+                //     auth: {
+                //         user: 'livinbose5@gmail.com', // Your email
+                //         pass: 'dchl viey uldz lfcz' // App password
+                //     }
+                // });
+                // let OTP = '1234';
+                // // Send OTP via Email
+                // const mailOptions = {
+                //     from: 'livinbose5@gmail.com',
+                //     to: 'livinbose0@gmail.com',
+                //     subject: 'Password Reset OTP',
+                //     text: `Your OTP for password reset is: ${OTP}. It expires in 10 minutes.`
+                // };
+
+                // transporter.sendMail(mailOptions, (error, info) => {
+
+                //     if (error) {
+                //         console.log("Errrr",error);
+                //     }
+                //     console.log("INFO===",info)
+                //     // if (error) return res.status(500).json({ error }
+                //     // if );
+                //     // res.json({ message: 'OTP sent successfully' });
+                // });
+
+                this.DBcheck(Email, (err, result) => {
+
+                    //         const users = [
+                    //             {
+                    //                 name: "John Doe",
+                    //                 userid: "U1001",
+                    //                 email: "john.doe@example.com",
+                    //                 password: "password123",
+                    //                 dateofjoin: "2023-05-10",
+                    //             },
+                    //             {
+                    //                 name: "Jane Smith",
+                    //                 userid: "U1002",
+                    //                 email: "jane.smith@example.com",
+                    //                 password: "securepass",
+                    //                 dateofjoin: "2022-08-15",
+                    //             },
+                    //             {
+                    //                 name: "Robert Johnson",
+                    //                 userid: "U1003",
+                    //                 email: "robert.j@example.com",
+                    //                 password: "robert@123",
+                    //                 dateofjoin: "2021-11-20",
+                    //             },
+                    //             {
+                    //                 name: "Emily Brown",
+                    //                 userid: "U1004",
+                    //                 email: "emily.b@example.com",
+                    //                 password: "emilyPass",
+                    //                 dateofjoin: "2020-06-30",
+                    //             },
+                    //             {
+                    //                 name: "Michael Scott",
+                    //                 userid: "U1005",
+                    //                 email: "michael.scott@dundermifflin.com",
+                    //                 password: "bestBoss",
+                    //                 dateofjoin: "2019-09-12",
+                    //             },
+                    //         ];
+                    //         let table = `<table border="1" cellspacing="0" cellpadding="10">
+                    //      <tr>
+                    //        <th>Name</th>
+                    //        <th>User ID</th>
+                    //        <th>Email</th>
+                    //        <th>Password</th>
+                    //        <th>Date of Join</th>
+                    //      </tr>`;
+
+                    //         users.forEach((user) => {
+                    //             table += `<tr>
+                    //     <td>${user.name}</td>
+                    //     <td>${user.userid}</td>
+                    //     <td>${user.email}</td>
+                    //     <td>${user.password}</td>
+                    //     <td>${user.dateofjoin}</td>
+                    //   </tr>`;
+                    //         });
+
+                    //         table += `</table>`;
+
+                    // console.log(table,"====", result);
+                    console.log("====", result);
+                    if (err) {
+                        return callback(err, null);
+                    }
+                    return callback(null, result);
+                });
+            } else {
+                let errMsg = {};
+                errMsg.MSG = "Please enter the Email"
+                return callback(errMsg, null);
+            }
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+
+    userdetailsupd(callback) {
+        try {
+            this.updateinfo((err, result) => {
+                if (err) {
+                    return callback(err, null);
+                }
+                return callback(null, result);
+            });
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+
+    forgotpass(callback) {
+        try {
+            let ID = this.REQUEST.ID;
+            console.log(this.REQUEST);
+            let userdetailsotp = {};
+            async.series({
+                userinfofetch: (cb) => {
+                    this.userinfo(ID, (err, result) => {
+                        if (err) {
+                            return cb(err, null);
+                        }
+                        console.log("res=====", result);
+                        userdetails = result;
+                        return cb(null, result);
+                    })
+                },
+                forgottableselect: (cb) => {
+                    this.tableselect((err, result) => {
+                        if (err) {
+                            return cb(err, null);
+                        }
+                        userdetailsotp = result;
+                        return cb(null, result);
+                    })
+                },
+                forgottableinsert: (cb) => {
+                    if (bmgeneric.empty(userdetailsotp)) {
+                        console.log("userdetails======", userdetails);
+                        return cb(null, null);
+                    } else {
+                        console.log("ID is empty");
+                        return cb(null, { MSG: "Please enter the valid id" });
+                    }
+                }
+
+            }, (err, result) => {
+                if (err) {
+                    return callback(err)
+                }
+                return callback(null, result);
+
+            });
+            console.log("forgot password");
+
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+
+
+    imageUpload(calbk) {
+        try {
+            console.log("THis.REQ========",this.REQUEST);        
+        
+            const userId = this.REQUEST.ID; // Get user ID from URL
+            const imagePath = this.REQUEST.FILE ? `/uploads/${this.REQUEST.FILE.filename}` : null; // Get uploaded file path
+            if (!imagePath) {
+                return calbk({ error: "No file uploaded" }); //res.status(400).json({ error: "No file uploaded" });
+            }
+
+            // Here, you can save `imagePath` in the database with `userId`
+            console.log(`User ID: ${userId}, Uploaded Image: ${imagePath}`);
+
+            // res.json({ message: "Image uploaded successfully!", imagePath });
+            return calbk(null, { message: "Image uploaded successfully!", imagePath })
+        } catch (err) {
+            return calbk(err);
+        }
+    }
+}
+
+
+
+
+
+
+module.exports = class loginDBFunctions {
+    DBcheck(email, callback) {
+        console.log("email========", email);
+        try {//dbHost, dbName, tableName, selectFields, whereClause, whereValueArr
+            let outputresponse = {}
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "*";
+            // var whereClause = "PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            // var whereClause = "PriMobileCountryCode=? and PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            var whereClause = {};//"{}";
+            var whereClauseVal = [];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['HRM'], TABLE['USERS'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                return callback(err, result);
+                console.log("DP result=======", result)
+                if (result.length > 0) {
+                    console.log("DP result=======", result);
+                    var hashedPassword = result[0]['password'];
+                    var emstatus = result[0]['empstatus'];
+                    async.parallel({
+                        hashPassword: (cb) => {
+                            console.log("this.REQUEST.Password=====",this.REQUEST.Password);
+                            bmgeneric.verifyPassword(this.REQUEST.Password, hashedPassword, (err, result) => {
+                                if (err) {
+                                    return cb(err)
+                                }
+                                return cb(null, result)
+                            });
+                        }
+                    }, (err, results) => {
+                        console.log("errr========", err);
+                        if (err) {
+                            return callback(err, null);
+                        }
+                        console.log(emstatus, "rs ===", results, "typeof======", typeof (results), "config.EMPSTATUS===========", config.EMPSTATUS);
+                        let passcompare = results['hashPassword'];
+                        if (passcompare == true) {
+                            outputresponse.MSG = "successfully login";
+                            outputresponse.EMPSTATUS = config.EMPSTATUS[emstatus];
+                        } else {
+                            outputresponse.MSG = "Invalid password";
+                        }
+
+                        return callback(null, outputresponse);
+                    });
+                } else {
+                    outputresponse.MSG = "Please enter the valid Mail ID"
+                    return callback(null, outputresponse);
+                }
+            })
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+
+
+    userinfo(ID,calback) {
+        try {
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "*";
+            var whereClause = "id=?";
+            var whereClauseVal = [ID];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['HRM'], TABLE['USERS'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                console.log("DP result=======", result)
+                if (result.length > 0) {
+                    return calback(null,result);
+                } else {
+                    return calback(null,{MGS : "Please enter the valid email"});
+                }
+            })
+        } catch (err) {
+            return calback(err, null);
+        }
+    }
+
+
+    updateinfo(callback) {
+        try {
+            console.log("this.REQUEST=========", this.REQUEST);
+            // return callback(null,null);
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "firstname";
+            var whereClause = "id=?";
+            // var whereClause = "PriMobileCountryCode=? and PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            var whereClauseVal = [this.REQUEST.ID];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['MYDATABASE'], TABLE['FORM'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                console.log("DP result=======", result)
+                return callback(null, result);
+            })
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+/**********************************************************************************************
+ *	Filename	: src/index.js							
+ *	Author		: Livin Bose S
+ *	Date		: 06-02-2025					
+ *	Description	: Graphql Main router file. 
+***********************************************************************************************/
+const express = require('express');
+const router = express.Router();
+/**
+ * This block includes all the controller classes
+ * POST, GET, PUT, PATCH & DELETE
+ */
+const loginControl = require('./controller/controller'); 
+
+router.post('/loginemail',loginControl);
+router.get('/loginemail',loginControl);
+
+router.post('/updateapi/:ID',loginControl)
+router.get('/updateapi/:ID',loginControl)
+
+router.post('/forgot-password/:ID',loginControl)
+router.get('/forgot-password/:ID',loginControl)
+
+
+
+// // Configure Multer for File Uploads
+// const storage = multer.diskStorage({
+//     destination: "./uploads/", // Folder to save images
+//     filename: (req, file, cb) => {
+//       cb(null, Date.now() + "-" + file.originalname); // Unique filename
+//     },
+//   });
+//   const upload = multer({ storage: storage });
+const path =require('path');
+  // Set storage engine
+const storage = multer.diskStorage({
+    destination: function (req, file, cb) {
+        const uploadPath = "./uploads/"; // Ensure this folder exists!
+        cb(null, uploadPath);
+    },
+    filename: function (req, file, cb) {
+        cb(null, file.fieldname + "-" + Date.now() + path.extname(file.originalname));
+    }
+});
+
+const upload = multer({ storage: storage });
+
+// Ensure 'uploads' folder exists
+// const fs = require("fs");
+if (!fs.existsSync("./uploads/")) {
+    fs.mkdirSync("./uploads/");
+}
+
+router.post('/imageupload/:ID',upload.single("image"),loginControl)
+router.get('/imageupload/:ID',upload.single("image"),loginControl)
+
+
+module.exports = router;
+
+
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . :
+   IPv6 Address. . . . . . . . . . . : 2401:4900:8826:981a:6b9b:38de:c735:fcb
+   Temporary IPv6 Address. . . . . . : 2401:4900:8826:981a:c4c0:8d6f:1c8c:148f
+   Link-local IPv6 Address . . . . . : fe80::764:ab71:7281:6799%8
+   IPv4 Address. . . . . . . . . . . : 192.168.1.128
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::4a41:7bff:fec7:e9b1%8
+                                       192.168.1.1
+
+
+
+
+
+
+module.exports = class loginDBFunctions {
+    DBcheck(email, callback) {
+        console.log("email========", email);
+        try {//dbHost, dbName, tableName, selectFields, whereClause, whereValueArr
+            let outputresponse = {}
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "*";
+            // var whereClause = "PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            // var whereClause = "PriMobileCountryCode=? and PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            var whereClause = {};//"{}";
+            var whereClauseVal = [];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['HRM'], TABLE['USERS'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                return callback(err, result);
+                console.log("DP result=======", result)
+                if (result.length > 0) {
+                    console.log("DP result=======", result);
+                    var hashedPassword = result[0]['password'];
+                    var emstatus = result[0]['empstatus'];
+                    async.parallel({
+                        hashPassword: (cb) => {
+                            console.log("this.REQUEST.Password=====",this.REQUEST.Password);
+                            bmgeneric.verifyPassword(this.REQUEST.Password, hashedPassword, (err, result) => {
+                                if (err) {
+                                    return cb(err)
+                                }
+                                return cb(null, result)
+                            });
+                        }
+                    }, (err, results) => {
+                        console.log("errr========", err);
+                        if (err) {
+                            return callback(err, null);
+                        }
+                        console.log(emstatus, "rs ===", results, "typeof======", typeof (results), "config.EMPSTATUS===========", config.EMPSTATUS);
+                        let passcompare = results['hashPassword'];
+                        if (passcompare == true) {
+                            outputresponse.MSG = "successfully login";
+                            outputresponse.EMPSTATUS = config.EMPSTATUS[emstatus];
+                        } else {
+                            outputresponse.MSG = "Invalid password";
+                        }
+
+                        return callback(null, outputresponse);
+                    });
+                } else {
+                    outputresponse.MSG = "Please enter the valid Mail ID"
+                    return callback(null, outputresponse);
+                }
+            })
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+
+
+    userinfo(ID,calback) {
+        try {
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "*";
+            var whereClause = "id=?";
+            var whereClauseVal = [ID];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['HRM'], TABLE['USERS'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                console.log("DP result=======", result)
+                if (result.length > 0) {
+                    return calback(null,result);
+                } else {
+                    return calback(null,{MGS : "Please enter the valid email"});
+                }
+            })
+        } catch (err) {
+            return calback(err, null);
+        }
+    }
+
+
+    updateinfo(callback) {
+        try {
+            console.log("this.REQUEST=========", this.REQUEST);
+            // return callback(null,null);
+            var dbhost = { DBHOST: 'localhost' };
+            var selectFields = "firstname";
+            var whereClause = "id=?";
+            // var whereClause = "PriMobileCountryCode=? and PriMobileNo=" + bmdbfunc.bmfuncEncryptValues('phone');
+            var whereClauseVal = [this.REQUEST.ID];
+            var qrycmt = "NBID Geting From MATRIIDINFO Table";
+            bmDb.bmDbSelect(dbhost, DBNAME['MYDATABASE'], TABLE['FORM'], selectFields, whereClause, whereClauseVal, qrycmt, (err, result) => {
+                console.log(err);
+                if (err) {
+                    return callback(err, null);
+                }
+                console.log("DP result=======", result)
+                return callback(null, result);
+            })
+        } catch (err) {
+            return callback(err, null);
+        }
+    }
+}

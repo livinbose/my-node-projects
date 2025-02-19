@@ -1,0 +1,7 @@
+1739534549
+Inside INSERT Qry 17:32:29; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$qGewtaex5JUPwipc/8Is6OTvRDiu74HKAd2E0rozUWRCEVctfkyBi', '2025-02-14T17:32:29Z', '2025-02-14T17:32:29Z', '2025-02-14T17:32:29Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================

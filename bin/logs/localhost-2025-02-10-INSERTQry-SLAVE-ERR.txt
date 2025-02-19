@@ -1,0 +1,13 @@
+1739170252
+Inside INSERT Qry 12:20:52; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, AES_ENCRYPT('livinbose123','m2WFtjTHA5jeMQbaBvjL910D9Ut8gmlZLb7J54Kf'), ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', AES_ENCRYPT('livinbose123','m2WFtjTHA5jeMQbaBvjL910D9Ut8gmlZLb7J54Kf'), '2025-02-10T12:20:52Z', '2025-02-10T12:20:52Z', '2025-02-10T12:20:52Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================1739182465
+Inside INSERT Qry 15:44:25; 
+ExecQry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?); 
+Qry : INSERT INTO hrm.users(name, email, password, email_verified_at, created_at, updated_at) VALUES ('Livin bose', 'Livinbose05@gmail.com', '$2b$10$lFKDQqILCcmi4Xk6MMBe1Oi2ZOZEbMNbmJc0xx32E34dkUB66QgBq', '2025-02-10T15:44:25Z', '2025-02-10T15:44:25Z', '2025-02-10T15:44:25Z'); 
+Db Host : localhost; 
+Db SLAVE_CONNECTION_ERROR_OR_INSERT_QRY_ERR: Error: ER_DUP_ENTRY: Duplicate entry 'Livinbose05@gmail.com' for key 'users_email_unique'
+=====================================================

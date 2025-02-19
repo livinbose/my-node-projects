@@ -1,0 +1,43 @@
+{
+    "ENV": "staging",
+    "development": {
+        "http": {
+            "port": "8080"
+        },
+
+        "https": {
+            "port": "8081"
+        },
+        "nodeServer": {
+            "username": "JDnode",
+            "password": "JDnode@123"
+        }
+    },
+    "staging": {
+        "http": {
+            "port": "5000" 
+        },
+
+        "https": {
+            "port": "8081"
+        },
+        "nodeServer": {
+            "username": "JDnode",
+            "password": "JDnode@123"
+        }
+    },
+    "production": {
+        "http": {
+            "port": "8080"
+        },
+
+        "https": {
+            "port": "8081"
+        },
+        "nodeServer": {
+            "username": "JDnode",
+            "password": "JDnode@123"
+        }
+    }
+    
+}
